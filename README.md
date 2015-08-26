@@ -11,6 +11,7 @@ Let me reiterate this is just a rudimentary dom xss verification and not a fuzze
 # How to use
 
 ensure following is set
+
 1. Phantomjs
   1. base64 module
 2. a file with one url per line.
