@@ -10,4 +10,4 @@ then
 	done<$1
 else
 	echo "Please provide a valid file with input list"
-fi%
+fi
